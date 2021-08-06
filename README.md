@@ -1,5 +1,6 @@
+
 ## DATA-LIFE 2021: Joint NYU-Politecnico di Milano project
-The goal of this project is to understanding the recruitment and loyalty of young blood donors through the analysis of social media engagement strategies.
+The goal of this project is to understand the recruitment and loyalty of young blood donors through the analysis of social media engagement strategies.
 
 ### Website
 The project's website can be found <a href="https://data-life-website.herokuapp.com/" target="_blank">here</a>.
