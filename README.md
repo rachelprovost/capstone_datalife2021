@@ -1,7 +1,7 @@
 <img width="331" alt="logos" src="https://user-images.githubusercontent.com/70822634/128571527-198987a7-f1bb-49a1-97a2-c8faa3c07355.PNG">
 
 
-## DATA-LIFE 2021: Joint NYU-Politecnico di Milano project
+## DATA-LIFE 2021: Joint New York University-Politecnico di Milano project
 The goal of this project is to understand the recruitment and loyalty of young blood donors through the analysis of social media engagement strategies.
 
 ### Website
