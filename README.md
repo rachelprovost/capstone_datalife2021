@@ -9,4 +9,4 @@ The project's website can be found <a href="https://data-life-website.herokuapp.
 ### Report
 The project's report can be found <a href="FinalCapstoneReport.pdf" target="_blank">here</a>.
 ### Note about the data
-Twitter and Instagram data was used for this project in addition to survey data. Since respondent-level survey data cannot be shared for privacy reasons, all data and notebooks are reported in aggregate. Additional reports created in the survey platforms can be found here for PoliMi and <a href="NYU_responses_survey.pdf" target="_blank">here</a> for NYU.
+Twitter and Instagram data was used for this project in addition to survey data. Since respondent-level survey data cannot be shared for privacy reasons, all data and notebooks are reported in aggregate. Additional reports created in the survey platforms can be found <a href="NYU_responses_survey.pdf" target="_blank">here</a> for NYU.
